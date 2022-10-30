@@ -1,3 +1,8 @@
+[Project Management QuickStart Guide](https://www.amazon.com/Project-Management-QuickStart-Guide-Simplified/dp/1636100589)
+
+[A Guide to the Project Management Body of Knowledge, pmi](https://book.douban.com/subject/24697645/)  
+
+
 [Essential Scrum](https://book.douban.com/subject/25887356/)
 
 [The Manager's Path, Fournier17](https://book.douban.com/subject/26997855/) 
@@ -74,7 +79,6 @@ PM作为中心，需要对外汇报给客户、监督委员会，对内组织资
 [软件开发之殇](http://career_book.siwei.me/)
 
 
-[A Guide to the Project Management Body of Knowledge](https://book.douban.com/subject/24697645/)  
 [汪博士解读PMP考试](https://book.douban.com/subject/24713754/)  
 
 [项目管理方法论，2015](https://book.douban.com/subject/26584696/)  
