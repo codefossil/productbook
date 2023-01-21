@@ -14,6 +14,14 @@ https://plaky.com/blog/project-management-quotes/
 
 
 # 现代科学管理
+![](https://ars.els-cdn.com/content/image/3-s2.0-B9780128158470000066-f06-11-9780128158470.jpg)
+
+![](https://media.licdn.com/dms/image/D4D12AQFmM8ktrNHwrg/article-cover_image-shrink_720_1280/0/1658852662669?e=2147483647&v=beta&t=shi2OJqOJjeYnQeLUcss5lm5XDg0vcHzOTM9fV68b04)
+
+
+![](https://media.licdn.com/dms/image/D4D12AQEFEXepEYJPVQ/article-inline_image-shrink_1000_1488/0/1658845354567?e=1679529600&v=beta&t=KEX71kBog6ZKGHkuXWZd9Im_9BXWFjylbmnLvPcijPM)
+
+
 [Project Management QuickStart Guide](https://www.amazon.com/Project-Management-QuickStart-Guide-Simplified/dp/1636100589)
 迄今为止，把项目管理讲得最简化，同时也兼顾一定深度和广度。  
 作者结合多种项管标准，融合成自己的一套lite PM。    
@@ -45,6 +53,16 @@ https://plaky.com/blog/project-management-quotes/
 
 [Making things hanppen]
 
+[汪博士解读PMP考试](https://book.douban.com/subject/24713754/)  
+
+[项目管理方法论，2015](https://book.douban.com/subject/26584696/)  
+
+
+https://www.esensoft.com/industry-news/dx-11387.html
+
+https://tms-outsource.com/blog/posts/project-management-framework/
+
+
 # 项目定义
 
 > 项目简述->BC->PID（增量）
@@ -68,6 +86,9 @@ https://plaky.com/blog/project-management-quotes/
 
 [GUIDE TO DEVELOPING THE PROJECT BUSINESS CASE](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/749086/Project_Business_Case_2018.pdf)
 
+
+https://bscdesigner.com/strategic-planning-process.htm
+
 # 任务分解、排序、估时
 ![](https://note.youdao.com/yws/public/resource/8f83e1297252c926e45efa55a901a1d2/xmlnote/WEBRESOURCE6287ea342110009b3ee392f41eb98c61/132)
 
@@ -75,7 +96,7 @@ https://plaky.com/blog/project-management-quotes/
 
 通过头脑风暴、咨询专家，**尽可能列出所有任务**
 利用CPM和PERT工具，确定完成顺序、人员、紧急程度  
-确定估时，好坏参半、10%、1:4:1
+增加应急估计（好坏参半、10%、1:4:1）
 
 
 [项目计划、进度与控制](https://book.douban.com/subject/10801087/)
@@ -95,6 +116,7 @@ https://plaky.com/blog/project-management-quotes/
 
 # 迭代计划
 
+需求质量把控  
 拆分项目迭代  
 架构、确定子系统组件、边界
 
@@ -117,31 +139,19 @@ GB/T 37507-2019 项目管理指南
 |  | 风险报告  |
 |  | 里程碑报告  |
 
+人员、需求、工具变更记录  
+
+
 # 复盘
 
 周期性，就事论事，完成好差，改进计划
+
+# 项目管理评价
+
+[A deep-dive into project management maturity models](https://asana.com/resources/project-management-maturity-model)
+
 
 [What Makes a Great Manager of Software Engineers, Kalliamvakou17](https://www.microsoft.com/en-us/research/uploads/prod/2018/06/kalliamvakou-tse-2018.pdf)
 
 [软件开发之殇](http://career_book.siwei.me/)
 
-
-[汪博士解读PMP考试](https://book.douban.com/subject/24713754/)  
-
-[项目管理方法论，2015](https://book.douban.com/subject/26584696/)  
-
-https://www.esensoft.com/industry-news/dx-11387.html
-
-
-
-[成功，动机与目标](https://book.douban.com/subject/22994632/)
-
-
-
-[Build](https://book.douban.com/subject/35685625/)
-
-[第五项修炼](https://book.douban.com/subject/4051739/)
-
-[坚毅](https://book.douban.com/subject/27062574/)
-
-[终身成长](https://book.douban.com/subject/27154533/)

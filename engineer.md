@@ -182,7 +182,6 @@ https://developer.aliyun.com/article/206424
 
 ![](https://www.researchgate.net/profile/Humberto-Cervantes/publication/221036001/figure/fig1/AS:394022662230017@1470953731072/The-4-phases-and-9-disciplines-of-the-Rational-Unified-Process.png)
 
-
 [PDCA, deming86](https://asqaustin.org/wp-content/uploads/2015/12/History_of_the_PDSA_Cycle_CN_ASQ_Talk-_2_10_2016_Handout.pdf)   
 现代企业质量控制的基石，也是PMP的理论基础。  
 

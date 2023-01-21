@@ -1,5 +1,18 @@
 https://www.linkedin.com/pulse/pmproject-management-people-harnessing-leadership-skills-kathpalia
 
+![](https://www.slideteam.net/media/catalog/product/cache/1280x720/r/o/role_of_project_manager_in_people_management_slide01.jpg)
+
+[成功，动机与目标](https://book.douban.com/subject/22994632/)
+
+[Build](https://book.douban.com/subject/35685625/)
+
+[第五项修炼](https://book.douban.com/subject/4051739/)
+
+[坚毅](https://book.douban.com/subject/27062574/)
+
+[终身成长](https://book.douban.com/subject/27154533/)
+
+
 # 团队与人员管理
 
 ![](https://www.isixsigma.com/wp-content/uploads/2010/02/Software-Defect-Rate-of-Discovery-Versus-Time.gif)
@@ -17,6 +30,10 @@ https://www.linkedin.com/pulse/pmproject-management-people-harnessing-leadership
 
 底层原理=人性+尊重+信任=成人自我
 
+[Common factors influencing software developer productivity](https://www.shakebugs.com/blog/developer-productivity-challenges/)
+
+
+https://survey.stackoverflow.co/2022/
 
 ## 激励管理
 
