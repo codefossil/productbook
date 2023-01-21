@@ -1,4 +1,63 @@
-[essential skills for the agile developer]
+https://www.linkedin.com/pulse/pmproject-management-people-harnessing-leadership-skills-kathpalia
+
+# 团队与人员管理
+
+![](https://www.isixsigma.com/wp-content/uploads/2010/02/Software-Defect-Rate-of-Discovery-Versus-Time.gif)
+
+解决内部冲突，做决策  
+技术决策和方向的影响力  
+组织外成事能力  
+
+[团队协作的五大障碍](https://book.douban.com/subject/4235591/)
+
+[7人团队敏捷管理手册](https://book.douban.com/subject/35481761/)
+
+
+[ch2, SEAG]()  
+
+底层原理=人性+尊重+信任=成人自我
+
+
+## 激励管理
+
+[驱动力](https://book.douban.com/subject/10484712/)
+
+
+### 合适的人做正确的事
+需要先做评估
+职位、性格、责任心
+
+
+### 好奇心、工作参与、满足感
+
+>（需求不清晰、技术难点、信息不对称）
+
+新成长
+新技术
+
+[研究表明](https://www.presentconnection.eu/news/software-developers-motivation/), 88% of employees are willing to stay at the same job as long as it provides the opportunities to learn and grow.
+
+[研究表明](https://www.kornferry.com/about-us//press/breaking-boredom-job-seekers-jumping-ship-for-new-challenges-in-2018-according-to-korn-ferry-survey), 34% of the employees look for a new workplace because they want new challenges.
+
+### 幸福、认可、能力胜任、信任
+
+工作时间灵活
+高效
+能力胜任开发
+
+[Google’s “20% rule”](https://www.cnbc.com/2021/12/16/google-20-percent-rule-shows-exactly-how-much-time-you-should-spend-learning-new-skills.html)
+
+### 突破自我、职业规划
+
+
+[怎样做好工程师和架构师](person.md)
+
+[5 ways to motivate your software developers](https://www.shakebugs.com/blog/motivate-software-developers/#Conclusion)
+
+
+[The Successful Software Manager The definitive guide to growing from developer to manager]()
+
+https://paulhammant.com/2012/11/01/testability-and-cost-of-change/
 
 
 # 软件工程师人性、个人发展
@@ -7,6 +66,7 @@
 
 > 工程师的一天=编码+设计文档+解bug
 
+[essential skills for the agile developer]
 
 [The Humble Programmer, turing lecture](https://dl.acm.org/doi/10.1145/355604.361591)
 
@@ -160,3 +220,17 @@ https://github.com/spring2go/engineer_competency_framework
 论文  
 
 ### 技术规划、目标管理
+
+
+# 项目经理
+
+**项目经理**的核心技能是管理（计划，组织，领导，控制）
+
+PM作为中心，需要对外汇报给客户、监督委员会，对内组织资源、计划、监控。  
+
+主要任务：沟通、安排（内外部资源数量、具体任务）、斡旋、时间管理（内外部时间计划）。  
+主要目标：就是确保每个任务都按时交付。
+个人：压力管理
+
+# 干系人
+The people within an organization include employees, suppliers, customers, and shareholders. 

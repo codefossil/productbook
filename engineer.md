@@ -97,7 +97,7 @@ http://augmentsoftware.com/wp-content/uploads/2016/12/SWE-Parnas-IME-USP-GLD-PLT
 [ch1, SEGA]()  
 软件工程复杂性所带来的复杂的决策流程
 
-# 绩效、效率和人员管理
+# 绩效、组织效率
 > 开发人员规模控制、组成成分、外部招聘  
 > 团队建设、培训晋升奖励  
 > DevOps过程的进度、质量、效率相关数据化
@@ -131,6 +131,14 @@ https://devops.phodal.com/maturity/team-topologies
 # 任务分解与工期估算
 
 > 工程师花多少精力
+
+[ch3, 软件项目成功之道]()
+
+每日站会+任务清单+时间预估
+
+[ch5, SEAG]()  
+个人工作、委托、人员管理之间平衡
+对齐产品与团队任务      
 
 https://www.cnblogs.com/odoouse/p/13245945.html
 
@@ -166,47 +174,6 @@ software sizing, estimation, and risk management
 https://developer.aliyun.com/article/206424
 
 
-# 团队协调与沟通
-
-![](https://www.isixsigma.com/wp-content/uploads/2010/02/Software-Defect-Rate-of-Discovery-Versus-Time.gif)
-
-[ch2, SEAG]()  
-
-底层原理=人性+尊重+信任=成人自我
-
-[ch3, 软件项目成功之道]()
-
-每日站会+任务清单+时间预估
-
-[ch5, SEAG]()  
-个人工作、委托、人员管理之间平衡
-对齐产品与团队任务      
-解决内部冲突，做决策  
-技术决策和方向的影响力  
-组织外成事能力  
-
-[怎样做好工程师和架构师](person.md)
-
-[驱动力](https://book.douban.com/subject/10484712/)
-
-[团队协作的五大障碍](https://book.douban.com/subject/4235591/)
-
-[Build](https://book.douban.com/subject/35685625/)
-
-[第五项修炼](https://book.douban.com/subject/4051739/)
-
-[坚毅](https://book.douban.com/subject/27062574/)
-
-[成功，动机与目标](https://book.douban.com/subject/22994632/)
-
-[终身成长](https://book.douban.com/subject/27154533/)
-
-[The Successful Software Manager The definitive guide to growing from developer to manager]()
-
-
-[7人团队敏捷管理手册](https://book.douban.com/subject/35481761/)
-
-https://paulhammant.com/2012/11/01/testability-and-cost-of-change/
 
 # 文档与知识共享
 
